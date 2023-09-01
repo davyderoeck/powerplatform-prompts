@@ -1,0 +1,1 @@
+When a user submits an event registration in [Start of Text] Microsoft Forms [End of Text], add the registration to [Start of Text] Dataverse [End of Text] and send confirmation to the form submitter with event details.
